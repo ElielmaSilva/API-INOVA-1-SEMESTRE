@@ -1,7 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
+# Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -26,12 +23,11 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  05/05/2024| concluido |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
 <p align="center">
@@ -39,10 +35,10 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%201/imagem/SPRINT%202.equipe.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
@@ -51,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
+
 
 [![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
@@ -59,7 +55,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/mRM29sPmXu4)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
