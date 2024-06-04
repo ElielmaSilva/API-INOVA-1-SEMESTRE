@@ -46,8 +46,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 1
 
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 1](https://img.youtube.com/vi/L0afRHmZ45o/0.jpg)](https://youtu.be/L0afRHmZ45o)
 
 
 ## Sprint 2
