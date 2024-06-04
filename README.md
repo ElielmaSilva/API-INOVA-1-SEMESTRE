@@ -15,9 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Nós, da Innova Consultoria, temos o privilégio de prestar serviços de assessoria para a Doce Sabor, uma empresa renomada no ramo alimentício, com mais de 55 anos de experiência no mercado. Reconhecida por sua presença em todos os estados do Brasil, estamos empenhados em impulsionar suas vendas, otimizar custos, realizar previsões de demanda e implementar o método da Curva ABC com excelência.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
