@@ -40,7 +40,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+A Innova Consultoria tem como principal objetivo assessorar a Doce Sabor a alcançar novos patamares, promovendo um crescimento contínuo e equilibrado, com foco em aumentar os lucros e fomentar a inovação na produção. Nosso compromisso é auxiliar na gestão de processos, garantindo uma regência eficiente em todos os setores da Doce Sabor, desde a administração até as áreas de vendas e produção.
 
 # Funcionalidades e Demonstrações das Sprints
 
