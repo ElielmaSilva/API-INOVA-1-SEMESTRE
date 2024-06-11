@@ -75,10 +75,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/f9080ca2-8056-4bdf-894b-d8bd03b1b5a6)
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
