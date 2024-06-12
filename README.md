@@ -84,7 +84,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 # Cronograma das Sprints
 ![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/59e48cbb-042f-4f10-9ebd-522994b7fb4f)
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/32620002-7a77-4dd3-9443-2636c72fd5d2)
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/e2f83773-4454-436b-b865-55528794505b)
+
+
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
