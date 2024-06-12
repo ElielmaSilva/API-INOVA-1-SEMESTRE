@@ -74,8 +74,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
-### Produto 
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/f9080ca2-8056-4bdf-894b-d8bd03b1b5a6)
+
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/188200a1-5a2f-4cd8-88bc-0918b90ce1d4)
+
 
   
 ### Mindset Digital
