@@ -107,16 +107,20 @@ Vídeo com a apresentação final da API do "semestre/ano"
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/51049365-b632-45d8-9993-08d8c4816aa7)
+
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/b217448b-7b37-4c55-b53a-32a12cca212d)
+
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/57396aed-4ba6-4162-b2f6-e4454d0a9b1d)
+
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/02c30146-ef6a-4a15-83bd-afe14bd15e99)
+
 
 
 # Competências desenvolvidas
