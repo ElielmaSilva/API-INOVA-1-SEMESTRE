@@ -124,10 +124,13 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/ff8ae641-cfdf-4d5c-aae2-8a14b0702f04)
+
 
 ## Hard Skill (saber tecnológico)
-<details>
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/b9a81f89-957b-407b-92b3-1e9b1aa9bef5)
+
+
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
