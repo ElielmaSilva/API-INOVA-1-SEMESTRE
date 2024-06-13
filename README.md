@@ -90,6 +90,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
+![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/6951c680-a3e5-49cf-ac6a-c97746285ae2)
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
